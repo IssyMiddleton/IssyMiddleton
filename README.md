@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IssyMiddleton
 - 👀 I’m interested in data, particularly energy and electricity data
-- 🌱 I’m currently learning about smart metering automated alarms and consumption data
+- 🌱 I’m currently learning about smart metering automated alarms and electrical demand and voltage data
 - 💞️ I’m looking to collaborate on analytics projects
 - 📫 You can reach me here or via LinkedIn
 
